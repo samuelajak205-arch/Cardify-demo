@@ -1,0 +1,6 @@
+{
+  "name": "Cardify",
+  "description": "A comprehensive school & education management platform demo with role dashboards, interactive study decks, and school administration controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
